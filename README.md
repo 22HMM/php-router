@@ -47,7 +47,7 @@ $router = new Router();
 // ...
 
 // Run it!
-$router->run();
+$router->start();
 ```
 
 ### Routing
